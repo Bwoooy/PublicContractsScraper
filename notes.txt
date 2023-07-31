@@ -1,0 +1,7 @@
+Apunts autocontractació RUBATEC
+
+https://contrataciondelestado.es/wps/portal/!ut/p/b1/jY_LDoIwEEW_hQ8wM5S2yhKBAoaX8lC6IV0Yg-GxMX6_YNxamN1NzsmdCxKancUZtW0TbiBH9e4e6tVNo-qXLHlL_cx1RUjwUFgektirKh4ukcxAowECss1nlkvrU53zIgoQo1B4cWWyWefbfPxzDmr9gK39z9b6ryD1FeQH6CZ-Ac2GNJyGOzQztm-d2j87kW1hdrzMRac8KfOAmIgUSmiSNYovVAqD7IUQdvSkaqccw_gA1BpgGQ!!/dl4/d5/L2dJQSEvUUt3QS80SmtFL1o2X0sxQzhBQjFBMEdBUjUwUUpJR1FDMTRKSDY3/
+
+Les pàgines de contractació catalana hi ha la opció de descarregar un .json on esta totes les dades nque volem extreure
+
+
